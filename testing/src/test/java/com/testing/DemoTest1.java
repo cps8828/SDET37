@@ -15,7 +15,7 @@ public class DemoTest1 {
 	@Test
 	public void createDemo10Test() {
 		Reporter.log("Test Demo10",true);
-		System.out.println("Good hayyyy");
+		System.out.println("Good hiiii");
 		
 	}
 
