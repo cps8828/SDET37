@@ -17,6 +17,8 @@ public class DemoTest1 {
 	public void createDemo10Test() {
 		Reporter.log("Test Demo10",true);
 		System.out.println("Good bye");
+		System.out.println("hello world");
+		System.out.println("bye bye");
 		
 	}
 
