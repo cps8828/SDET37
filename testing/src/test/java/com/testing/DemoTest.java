@@ -7,7 +7,7 @@ public class DemoTest {
 	
 	@Test
 	public void createDemo1Test() {
-		Reporter.log("Test Demo1",true);
+		Reporter.log("Test Demo8",true);
 	}
 	@Test
 	public void pratice1Test() {
@@ -24,7 +24,7 @@ public class DemoTest {
 	}
 	@Test
 	public void createDemo2Test() {
-		Reporter.log("Test Demo2",true);
+		Reporter.log("Bye bye",true);
 	}
 	@Test
 	public void createDemo3Test() {
