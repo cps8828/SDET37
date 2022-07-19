@@ -24,7 +24,7 @@ public class DemoTest {
 	}
 	@Test
 	public void createDemo2Test() {
-		Reporter.log("Bye bye",true);
+		
 	}
 	@Test
 	public void createDemo3Test() {
