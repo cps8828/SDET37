@@ -46,6 +46,7 @@ public class DemoTest {
 	@Test
 	public void createDemo7Test() {
 		Reporter.log("Test Demo7",true);
+		System.out.println("abhishek is there");
 	}
 	
 	
