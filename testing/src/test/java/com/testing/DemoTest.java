@@ -24,7 +24,7 @@ public class DemoTest {
 		//hello i am from Uttar Pradesh
 		//hello i am kanpur
 		System.out.println("all are good");
-		System.out.println("i am good player");
+		System.out.println("i am good player");//somting 
 		  
 		
 	}
