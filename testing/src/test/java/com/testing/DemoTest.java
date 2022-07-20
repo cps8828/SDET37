@@ -20,6 +20,8 @@ public class DemoTest {
 		System.out.println("browser----->"+browser);
 		System.out.println("username----->"+username);
 		System.out.println("password----->"+password);
+		//ghytdrjydytftyf
+		  
 		
 	}
 	@Test
@@ -42,6 +44,7 @@ public class DemoTest {
 	@Test
 	public void createDemo7Test() {
 		Reporter.log("Test Demo7",true);
+		
 	}
 	
 	

@@ -7,7 +7,7 @@ public class DemoTest1 {
 	@Test
 	public void createDemo8Test() {
 		Reporter.log("Test Demo8",true);
-		//hii everyone how are you 
+		//hii fctfctfcth come
 	}
 	@Test
 	public void createDemo9Test() {
@@ -16,7 +16,15 @@ public class DemoTest1 {
 	@Test
 	public void createDemo10Test() {
 		Reporter.log("Test Demo10",true);
-		System.out.println("Good hiiii");
+
+		System.out.println("Good bye");
+		System.out.println("hello world");
+		System.out.println("bye bye");
+		System.out.println("hye hye");
+		System.out.println("oye oye");
+		System.out.println("tititiutitsss");
+		System.out.println("7676462167");
+
 		
 	}
 
