@@ -15,6 +15,11 @@ public class DemoTest1 {
 	}
 	@Test
 	public void createDemo10Test() {
+		String browser = System.getProperty("browser");
+		
+		String url =System.getProperty("Url");
+		System.out.println("browser"+browser);
+	
 		Reporter.log("Test Demo10",true);
 
 		System.out.println("Good bye");
