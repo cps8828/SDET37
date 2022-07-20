@@ -8,10 +8,6 @@ public class DemoTest {
 	@Test
 	public void createDemo1Test() {
 		Reporter.log("Test Demo8",true);
-
-		
-
-	
 	}
 	@Test
 	public void pratice1Test() {
@@ -24,6 +20,7 @@ public class DemoTest {
 		System.out.println("browser----->"+browser);
 		System.out.println("username----->"+username);
 		System.out.println("password----->"+password);
+		//ghytdrjydytftyf
 		
 	}
 	@Test
@@ -46,7 +43,7 @@ public class DemoTest {
 	@Test
 	public void createDemo7Test() {
 		Reporter.log("Test Demo7",true);
-		System.out.println("abhishek is there");
+		
 	}
 	
 	
