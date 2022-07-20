@@ -8,7 +8,10 @@ public class DemoTest {
 	@Test
 	public void createDemo1Test() {
 		Reporter.log("Test Demo8",true);
-		//vicky
+
+		
+
+	
 	}
 	@Test
 	public void pratice1Test() {
