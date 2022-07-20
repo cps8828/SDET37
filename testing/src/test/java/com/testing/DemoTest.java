@@ -23,6 +23,8 @@ public class DemoTest {
 		//ghytdrjydytftyf
 		//hello i am from Uttar Pradesh
 		//hello i am kanpur
+		System.out.println("all are good");
+		System.out.println("i am good player");
 		  
 		
 	}

@@ -58,4 +58,9 @@
   </plugins>
   </build>
   
+  <!-- 	This is for executing particular surefire plugin for grouping testng file,here we can group smoke ,functional 
+  ,system and also regression testing as a testng group and for executing in cmd line we can only cmd maven code to run these test 
+  cases saperately with the help of testng grouping file(it should start with <profile> and end with <profiles>  -->
+  
+  
 </project>
