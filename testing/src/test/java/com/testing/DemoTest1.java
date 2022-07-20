@@ -16,6 +16,7 @@ public class DemoTest1 {
 	@Test
 	public void createDemo10Test() {
 		Reporter.log("Test Demo10",true);
+
 		System.out.println("Good bye");
 		System.out.println("hello world");
 		System.out.println("bye bye");
@@ -23,6 +24,7 @@ public class DemoTest1 {
 		System.out.println("oye oye");
 		System.out.println("tititiutitsss");
 		System.out.println("7676462167");
+
 		
 	}
 
