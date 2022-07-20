@@ -18,7 +18,7 @@ public class DemoTest1 {
 		String browser = System.getProperty("browser");
 		
 		String url =System.getProperty("Url");
-		System.out.println("browser"+browser);
+		System.out.println("browser is "+browser+"Url is ---->"+url);
 	
 		Reporter.log("Test Demo10",true);
 
